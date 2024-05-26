@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">notestapp</string>
+    <string name="title_activity_notes">Notes</string>
+    <string name="notes_main_screen">Notes</string>
+    <string name="profile_screen">Profile</string>
+    <string name="notes_add_screen">Notes Add Screen</string>
+</resources>
